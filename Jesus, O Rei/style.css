@@ -1,0 +1,132 @@
+h3 {
+    color: black;
+}
+
+
+blockquote {
+    text-align: justify;
+}
+
+
+.jesus {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-color: #f0f0f0;
+    }
+
+img {
+    width: 300px;
+}
+
+footer {
+    height: 55px;
+    background-color: #714329;
+    text-align: center;
+    color: #EDD29E;
+    vertical-align: 60px;
+}
+
+
+header {
+    height: 150px;
+    background-color: #714329;
+    text-align: right;
+}
+
+
+.paragrafo-amarelo {
+    color: #EDD29E;
+    text-align: center;
+}
+
+
+.paragrafo-preto {
+    color: black;
+    text-align: left;
+}
+
+
+.meu-header {
+    align-items: center;
+    text-align: center;
+}
+
+
+.container {
+    display: flex;
+    margin: 10px;
+}
+
+
+.esquerda {
+    width: 50%;
+    background-color: #714329;
+    padding: 20px;
+    text-align: center;
+    color: #EDD29E;
+}
+
+
+.espaco {
+    width: 5%;
+    background-color: #D0b9A7;
+}
+
+
+.direita {
+    width: 50%;
+    background-color: #714329;
+    padding: 20px;
+    text-align: center;
+    color: #EDD29E;
+}
+
+
+.links_importantes {
+    text-align: justify;
+    color: black;
+}
+
+
+.titulo {
+    text-align: center;
+    color: #EDD29E;
+}
+
+
+hr {
+    border-color: #714329;
+}
+
+
+.tabela {
+      width: 80%;
+      border-collapse: collapse;
+      margin: 20px auto;
+      font-family: Arial, sans-serif;
+    }
+
+    .theadtab {
+      background-color: #714329;
+      color: white;
+    }
+
+    .tbodytab tr:nth-child(even) {
+      color: white;
+      background-color: #714329;
+    }
+
+    .tfoottab {
+      color: white;
+      background-color: #714329;
+      font-weight: bold;
+    }
+
+    th, td {
+      padding: 12px;
+      border: 1px solid #714329;
+      text-align: left;
+    }
